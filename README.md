@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Backend Technology**
 
-- 💬 Ask me about **How to center a <div>😁**
+- 💬 Ask me about **How to center a < div >😁**
 
 - 📫 How to reach me **tousifrehman.ise.rymec@gmail.com**
 
