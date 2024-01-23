@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Tousif Rehman</h1>
-<h3 align="center">A Passionate Engineer who drools over Data science and Analytics</h3>
+<h3 align="center">A Passionate Engineer who's excited about Data science and Analytics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-rexman&label=Profile%20views&color=0e75b6&style=flat" alt="t-rexman" /> </p>
 
-- 🔭 I’m currently working on **AI chatbots**
+- 🔭 I’m currently working on **Clone Apps**
 
-- 🌱 I’m currently learning **Machine Learning using python**
+- 🌱 I’m currently learning **Frontend Development**
 
-- 👯 I’m looking to collaborate on **AR chatbots**
+- 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 🤝 I’m looking for help with **AI chatbots**
+- 🤝 I’m looking for help with **Backend Technology**
 
-- 💬 Ask me about **Any Programming language basics...**
+- 💬 Ask me about **How to center a <div>😁**
 
 - 📫 How to reach me **tousifrehman.ise.rymec@gmail.com**
 
-- ⚡ Fun fact **I'm noob in games**
+- ⚡ Fun fact **Backbencher for life 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
